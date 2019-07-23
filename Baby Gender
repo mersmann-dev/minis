@@ -1,0 +1,6 @@
+import random
+num = random.randint(0,100)
+if num < 50:
+  print("You're having a Baby Girl!")
+else:
+  print("You're having a Baby Boy!")
